@@ -1,0 +1,5 @@
+{
+    "git.showActionButton": {
+        "commit": false
+    }
+}
